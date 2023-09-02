@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1039994006224",
+    "project_id": "aplicativodossabios",
+    "storage_bucket": "aplicativodossabios.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039994006224:android:f284e548819ce073188cd5",
+        "android_client_info": {
+          "package_name": "com.mycompany.sabio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039994006224-8lmsrghsls072nplbg9e4300qqd9rmiu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsAICBDqWgSwah2-T0_X61ojW0WsJoebk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1039994006224-8lmsrghsls072nplbg9e4300qqd9rmiu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1039994006224-49n0jmv3eoiobo2jqcn2fbqus30j4mqk.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.sabio"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
