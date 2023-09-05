@@ -25,8 +25,6 @@ class _PaginaPrincipaldoaplicativoCopyWidgetState
   void initState() {
     super.initState();
     _model = createModel(context, () => PaginaPrincipaldoaplicativoCopyModel());
-
-    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

@@ -23,8 +23,6 @@ class _Paginaartigo1WidgetState extends State<Paginaartigo1Widget> {
   void initState() {
     super.initState();
     _model = createModel(context, () => Paginaartigo1Model());
-
-    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

@@ -1,37 +1,45 @@
 {
   "project_info": {
-    "project_number": "1039994006224",
-    "project_id": "aplicativodossabios",
-    "storage_bucket": "aplicativodossabios.appspot.com"
+    "project_number": "889922258745",
+    "project_id": "sejasabio-41ec1",
+    "storage_bucket": "sejasabio-41ec1.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1039994006224:android:f284e548819ce073188cd5",
+        "mobilesdk_app_id": "1:889922258745:android:5a4832861860e6ead64ae8",
         "android_client_info": {
           "package_name": "com.mycompany.sabio"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1039994006224-8lmsrghsls072nplbg9e4300qqd9rmiu.apps.googleusercontent.com",
+          "client_id": "889922258745-gdn3ujveh38nq2n8ketj33an31t2dbt2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.sabio",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "889922258745-iqg3pjg98r0t22nsiamir9m7inpq23gl.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDsAICBDqWgSwah2-T0_X61ojW0WsJoebk"
+          "current_key": "AIzaSyDlVJH7vU4EuQg-6AQSBjhYxw0-qw6M7GI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1039994006224-8lmsrghsls072nplbg9e4300qqd9rmiu.apps.googleusercontent.com",
+              "client_id": "889922258745-iqg3pjg98r0t22nsiamir9m7inpq23gl.apps.googleusercontent.com",
               "client_type": 3
             },
             {
-              "client_id": "1039994006224-49n0jmv3eoiobo2jqcn2fbqus30j4mqk.apps.googleusercontent.com",
+              "client_id": "889922258745-e3e77httbml9b71mpr4glo90c6tgb2fd.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
                 "bundle_id": "com.mycompany.sabio"

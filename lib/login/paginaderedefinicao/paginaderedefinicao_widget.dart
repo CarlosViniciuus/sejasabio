@@ -27,7 +27,6 @@ class _PaginaderedefinicaoWidgetState extends State<PaginaderedefinicaoWidget> {
     _model = createModel(context, () => PaginaderedefinicaoModel());
 
     _model.emailTextController ??= TextEditingController();
-    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

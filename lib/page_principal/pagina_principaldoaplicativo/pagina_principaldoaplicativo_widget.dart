@@ -26,8 +26,6 @@ class _PaginaPrincipaldoaplicativoWidgetState
   void initState() {
     super.initState();
     _model = createModel(context, () => PaginaPrincipaldoaplicativoModel());
-
-    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

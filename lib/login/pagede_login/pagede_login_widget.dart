@@ -27,7 +27,6 @@ class _PagedeLoginWidgetState extends State<PagedeLoginWidget> {
 
     _model.emailTextController ??= TextEditingController();
     _model.passwordTextController ??= TextEditingController();
-    WidgetsBinding.instance.addPostFrameCallback((_) => setState(() {}));
   }
 
   @override

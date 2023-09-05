@@ -3,21 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CLIENT_ID</key>
-	<string>1039994006224-49n0jmv3eoiobo2jqcn2fbqus30j4mqk.apps.googleusercontent.com</string>
+	<string>889922258745-e3e77httbml9b71mpr4glo90c6tgb2fd.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.1039994006224-49n0jmv3eoiobo2jqcn2fbqus30j4mqk</string>
+	<string>com.googleusercontent.apps.889922258745-e3e77httbml9b71mpr4glo90c6tgb2fd</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>889922258745-gdn3ujveh38nq2n8ketj33an31t2dbt2.apps.googleusercontent.com</string>
 	<key>API_KEY</key>
-	<string>AIzaSyB3zUMtPcG3WQVbPo8_96e4C4AIJ7yNXH0</string>
+	<string>AIzaSyAelypYyBLQpk3OHZNlYtzz3MRq3zEDkuQ</string>
 	<key>GCM_SENDER_ID</key>
-	<string>1039994006224</string>
+	<string>889922258745</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>com.mycompany.sabio</string>
 	<key>PROJECT_ID</key>
-	<string>aplicativodossabios</string>
+	<string>sejasabio-41ec1</string>
 	<key>STORAGE_BUCKET</key>
-	<string>aplicativodossabios.appspot.com</string>
+	<string>sejasabio-41ec1.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -29,6 +31,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:1039994006224:ios:29636bada64090c0188cd5</string>
+	<string>1:889922258745:ios:ac6fe4e7be731e7bd64ae8</string>
 </dict>
 </plist>
